@@ -1,19 +1,23 @@
-<<<<<<< HEAD
-# Expo Router Example
+# React Native Jobs App
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
+This React Native is a clone of Upwork where users can search for jobs by category and keywords. It's built using Expo, an open-source platform for building mobile applications with React Native, and RapidAPI, a platform for connecting to APIs.
 
-## 🚀 How to use
+## Installation
 
-```sh
-npx create-react-native-app -t with-router
+Install dependencies:
+
+```bash
+npm install
 ```
 
-## 📝 Notes
+Run the app:
 
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
-- [Request for Comments](https://github.com/expo/router/discussions/1)
-=======
-# jobs-react-native-app
->>>>>>> a1473ceb7190a94123607366d9526ceeb4f96375
+```bash
+npm run start
+```
+
+## Usage
+
+You can run it on your android phone using the following QR Code (expo app is required):
+
+![QR Code](https://qr.expo.dev/expo-go?owner=ziad42&slug=first-app&releaseChannel=default&host=exp.host)
